@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Absence-MS/Absence-MS.iml" filepath="$PROJECT_DIR$/Absence-MS/Absence-MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Etudiant-MS/Etudiant-MS.iml" filepath="$PROJECT_DIR$/Etudiant-MS/Etudiant-MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student-Services/Etudiant-Service.iml" filepath="$PROJECT_DIR$/Student-Services/Etudiant-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Discovery/Eureka-Discovery.iml" filepath="$PROJECT_DIR$/Eureka-Discovery/Eureka-Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" filepath="$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matiere-MS/Matiere-MS.iml" filepath="$PROJECT_DIR$/Matiere-MS/Matiere-MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Professeur-MS/Professeur-MS.iml" filepath="$PROJECT_DIR$/Professeur-MS/Professeur-MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetFinalJEE_GestionDesAbsences.iml" filepath="$PROJECT_DIR$/ProjetFinalJEE_GestionDesAbsences.iml" />
+    </modules>
+  </component>
+</project>

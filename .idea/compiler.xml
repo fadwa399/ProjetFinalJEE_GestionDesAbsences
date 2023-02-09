@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Professeur-MS" />
+        <module name="Etudiant-MS" />
+        <module name="Gateway-Service" />
+        <module name="Eureka-Discovery" />
+        <module name="Etudiant-Service" />
+        <module name="Absence-MS" />
+        <module name="Matiere-MS" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Absence-MS" target="17" />
+      <module name="Etudiant-MS" target="17" />
+      <module name="Etudiant-Service" target="17" />
+      <module name="Eureka-Discovery" target="17" />
+      <module name="Gateway-Service" target="17" />
+      <module name="Matiere-MS" target="17" />
+      <module name="Professeur-MS" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Absence-MS" options="-parameters" />
+      <module name="Etudiant-MS" options="-parameters" />
+      <module name="Etudiant-Service" options="-parameters" />
+      <module name="Eureka-Discovery" options="-parameters" />
+      <module name="Gateway-Service" options="-parameters" />
+      <module name="Matiere-MS" options="-parameters" />
+      <module name="Professeur-MS" options="-parameters" />
+    </option>
+  </component>
+</project>
